@@ -158,7 +158,7 @@ main {
 
 /* Hero Section */
 .hero {
-    background: url('assets/background.png');
+    background: url('background.png');
     background-size: cover;
     background-position: center;
     height: 100vh;
